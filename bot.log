@@ -1,0 +1,205 @@
+[2025-06-11T12:46:06.544Z] [INFO] ==================================================
+[2025-06-11T12:46:06.546Z] [INFO] Pi Auto-Transfer Bot Initializing...
+[2025-06-11T12:46:06.546Z] [INFO] ==================================================
+[2025-06-11T12:46:06.583Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T12:46:06.583Z] [SUCCESS] Configuration and keys validated successfully.
+[2025-06-11T12:46:06.584Z] [INFO] Pi Bot run starting... Current state: [AWAITING_MOVE]
+[2025-06-11T12:46:06.600Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T12:46:06.601Z] [INFO] Attempting 'Move Pi' operation to GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI with amount 100.0 Pi.
+[2025-06-11T12:46:09.460Z] [INFO] Submitting "Move Pi" transaction...
+[2025-06-11T12:46:10.169Z] [SUCCESS] "Move Pi" transaction was successful!
+{}
+[2025-06-11T12:46:10.170Z] [INFO] Pi is considered mature. Attempting final transfer.
+[2025-06-11T12:46:10.171Z] [INFO] Checking available balance for final transfer from GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T12:46:10.489Z] [ERROR] Final transfer attempt failed.
+{
+  "message": "StellarSdk.stroopToXlm is not a function"
+}
+[2025-06-11T13:03:39.244Z] [INFO] ==================================================
+[2025-06-11T13:03:39.245Z] [INFO] Pi Auto-Transfer Bot Initializing...
+[2025-06-11T13:03:39.246Z] [INFO] ==================================================
+[2025-06-11T13:03:39.282Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:03:39.283Z] [SUCCESS] Configuration and keys validated successfully.
+[2025-06-11T13:03:39.283Z] [INFO] Pi Bot run starting... Current state: [AWAITING_MOVE]
+[2025-06-11T13:03:39.300Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:03:39.301Z] [INFO] Attempting 'Move Pi' operation to GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI with amount 100.0 Pi.
+[2025-06-11T13:03:40.536Z] [INFO] Submitting "Move Pi" transaction...
+[2025-06-11T13:03:41.454Z] [SUCCESS] "Move Pi" transaction was successful!
+{}
+[2025-06-11T13:03:41.457Z] [INFO] Pi is considered mature. Attempting final transfer.
+[2025-06-11T13:03:41.459Z] [INFO] Checking available balance for final transfer from GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:03:41.893Z] [INFO] Current balance: 201.3947339 Pi. Amount to send after reserve/fee: 200.8847339 Pi.
+[2025-06-11T13:03:41.895Z] [INFO] Submitting final transfer to GCDQENO4RLX77MPEQJMZYRIU7DRQNNK5JKA7SW46C7AOJTYVXIXHRMHG...
+[2025-06-11T13:03:42.608Z] [SUCCESS] ✅✅✅ FINAL TRANSFER SUCCESSFUL! ✅✅✅
+{
+  "recipient": "GCDQENO4RLX77MPEQJMZYRIU7DRQNNK5JKA7SW46C7AOJTYVXIXHRMHG",
+  "amount": "200.8847339"
+}
+[2025-06-11T13:03:42.610Z] [SUCCESS] Transfer is complete. The bot will now idle. Restart the bot to run again.
+[2025-06-11T13:12:17.917Z] [INFO] ==================================================
+[2025-06-11T13:12:17.918Z] [INFO] Pi Auto-Transfer Bot Initializing...
+[2025-06-11T13:12:17.919Z] [INFO] ==================================================
+[2025-06-11T13:12:17.955Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:12:17.955Z] [SUCCESS] Configuration and keys validated successfully.
+[2025-06-11T13:12:17.956Z] [INFO] Pi Bot run starting... Current state: [AWAITING_MOVE]
+[2025-06-11T13:12:17.973Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:12:17.974Z] [INFO] Attempting 'Move Pi' operation to GCDQENO4RLX77MPEQJMZYRIU7DRQNNK5JKA7SW46C7AOJTYVXIXHRMHG with amount 1.0 Pi.
+[2025-06-11T13:12:19.054Z] [INFO] Submitting "Move Pi" transaction...
+[2025-06-11T13:12:19.718Z] [SUCCESS] "Move Pi" transaction was successful!
+{}
+[2025-06-11T13:12:19.719Z] [INFO] Pi is considered mature. Attempting final transfer.
+[2025-06-11T13:12:19.719Z] [INFO] Checking available balance for final transfer from GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:12:20.026Z] [INFO] Current balance: 201.3947339 Pi. Amount to send after reserve/fee: 200.8847339 Pi.
+[2025-06-11T13:12:20.028Z] [INFO] Submitting final transfer to GCDQENO4RLX77MPEQJMZYRIU7DRQNNK5JKA7SW46C7AOJTYVXIXHRMHG...
+[2025-06-11T13:12:51.488Z] [SUCCESS] ✅✅✅ FINAL TRANSFER SUCCESSFUL! ✅✅✅
+{
+  "recipient": "GCDQENO4RLX77MPEQJMZYRIU7DRQNNK5JKA7SW46C7AOJTYVXIXHRMHG",
+  "amount": "200.8847339"
+}
+[2025-06-11T13:12:51.489Z] [SUCCESS] Transfer is complete. The bot will now idle. Restart the bot to run again.
+[2025-06-11T13:21:30.995Z] [INFO] ==================================================
+[2025-06-11T13:21:30.998Z] [INFO] Pi Auto-Transfer Bot Initializing...
+[2025-06-11T13:21:30.998Z] [INFO] ==================================================
+[2025-06-11T13:21:30.999Z] [INFO] Configuration appears valid. Starting main execution loop...
+[2025-06-11T13:21:30.999Z] [INFO] Pi Bot run starting... Current state: [AWAITING_MOVE]
+[2025-06-11T13:21:31.035Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:21:31.036Z] [INFO] Attempting 'Move Pi' operation to GCDQENO4RLX77MPEQJMZYRIU7DRQNNK5JKA7SW46C7AOJTYVXIXHRMHG with amount 1.0 Pi.
+[2025-06-11T13:21:32.230Z] [INFO] Submitting "Move Pi" transaction...
+[2025-06-11T13:21:32.940Z] [SUCCESS] "Move Pi" transaction was successful! Pi is mature.
+{}
+[2025-06-11T13:21:37.952Z] [INFO] Pi Bot run starting... Current state: [PENDING_FINAL_TRANSFER]
+[2025-06-11T13:21:37.968Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:21:37.969Z] [INFO] Pi is considered mature. Attempting final transfer.
+[2025-06-11T13:21:37.969Z] [INFO] Checking available balance for final transfer from GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:21:39.127Z] [INFO] Current balance: 201.3947339 Pi. Amount to send after reserve/fee: 200.8847339 Pi.
+[2025-06-11T13:21:39.129Z] [INFO] Submitting final transfer to GCDQENO4RLX77MPEQJMZYRIU7DRQNNK5JKA7SW46C7AOJTYVXIXHRMHG...
+[2025-06-11T13:21:39.843Z] [SUCCESS] ✅✅✅ FINAL TRANSFER SUCCESSFUL! ✅✅✅
+{
+  "recipient": "GCDQENO4RLX77MPEQJMZYRIU7DRQNNK5JKA7SW46C7AOJTYVXIXHRMHG",
+  "amount": "200.8847339"
+}
+[2025-06-11T13:21:44.847Z] [INFO] Pi Bot run starting... Current state: [TRANSFER_COMPLETE]
+[2025-06-11T13:21:44.848Z] [SUCCESS] Transfer is complete. The bot will now idle. Restart the bot to run again.
+[2025-06-11T13:23:24.798Z] [INFO] ==================================================
+[2025-06-11T13:23:24.800Z] [INFO] Pi Auto-Transfer Bot Initializing...
+[2025-06-11T13:23:24.801Z] [INFO] ==================================================
+[2025-06-11T13:23:24.838Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:23:24.838Z] [SUCCESS] Configuration and keys validated successfully.
+[2025-06-11T13:23:24.839Z] [INFO] Pi Bot run starting...
+[2025-06-11T13:23:24.857Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:23:24.858Z] [INFO] Attempting 'Move Pi' operation to GCDQENO4RLX77MPEQJMZYRIU7DRQNNK5JKA7SW46C7AOJTYVXIXHRMHG with amount 1.0 Pi.
+[2025-06-11T13:23:26.130Z] [INFO] Submitting "Move Pi" transaction...
+[2025-06-11T13:23:57.581Z] [SUCCESS] "Move Pi" transaction was successful!
+{}
+[2025-06-11T13:23:57.584Z] [INFO] Pi is considered mature. Proceeding with transfer of available balance.
+[2025-06-11T13:24:02.586Z] [INFO] Checking available balance for final transfer from GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:24:03.710Z] [ERROR] Final transfer failed.
+{
+  "message": "StellarSdk.stroopToXlm is not a function"
+}
+[2025-06-11T13:24:03.711Z] [FATAL] Bot failed to start.
+{
+  "message": "keypair.wipe is not a function"
+}
+[2025-06-11T13:36:28.469Z] [INFO] ==================================================
+[2025-06-11T13:36:28.471Z] [INFO] Pi Auto-Transfer Bot Initializing...
+[2025-06-11T13:36:28.471Z] [INFO] ==================================================
+[2025-06-11T13:36:28.471Z] [SUCCESS] Configuration and keys validated successfully.
+[2025-06-11T13:36:28.472Z] [INFO] Pi Bot run starting... Current state: [AWAITING_MOVE]
+[2025-06-11T13:36:28.509Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:36:28.510Z] [INFO] Attempting 'Move Pi' operation to GCDQENO4RLX77MPEQJMZYRIU7DRQNNK5JKA7SW46C7AOJTYVXIXHRMHG with amount 1.0 Pi.
+[2025-06-11T13:36:29.661Z] [INFO] Submitting "Move Pi" transaction...
+[2025-06-11T13:36:30.437Z] [SUCCESS] "Move Pi" transaction was successful! Pi is considered mature.
+{}
+[2025-06-11T13:36:35.447Z] [INFO] Pi Bot run starting... Current state: [PENDING_FINAL_TRANSFER]
+[2025-06-11T13:36:35.544Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:36:35.547Z] [INFO] Checking available balance for final transfer from GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:36:36.477Z] [INFO] Current balance: 200.3747339 Pi. Amount to send after reserve/fee: 199.8647339 Pi.
+[2025-06-11T13:36:36.479Z] [INFO] Submitting final transfer to GCDQENO4RLX77MPEQJMZYRIU7DRQNNK5JKA7SW46C7AOJTYVXIXHRMHG...
+[2025-06-11T13:36:37.121Z] [SUCCESS] ✅✅✅ FINAL TRANSFER SUCCESSFUL! ✅✅✅
+{
+  "recipient": "GCDQENO4RLX77MPEQJMZYRIU7DRQNNK5JKA7SW46C7AOJTYVXIXHRMHG",
+  "amount": "199.8647339"
+}
+[2025-06-11T13:36:42.125Z] [INFO] Pi Bot run starting... Current state: [TRANSFER_COMPLETE]
+[2025-06-11T13:36:42.127Z] [SUCCESS] Transfer is complete. The bot will now idle. Restart the script to run again.
+[2025-06-11T13:52:11.387Z] [INFO] ==================================================
+[2025-06-11T13:52:11.389Z] [INFO] Pi Auto-Transfer Bot Initializing...
+[2025-06-11T13:52:11.390Z] [INFO] ==================================================
+[2025-06-11T13:52:11.390Z] [SUCCESS] Configuration and keys validated successfully.
+[2025-06-11T13:52:11.391Z] [INFO] Pi Bot run starting... Current state: [AWAITING_MOVE]
+[2025-06-11T13:52:11.429Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:52:11.429Z] [INFO] Attempting 'Move Pi' operation to GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI with amount 100.0 Pi.
+[2025-06-11T13:52:12.501Z] [INFO] Submitting "Move Pi" transaction...
+[2025-06-11T13:52:13.290Z] [SUCCESS] "Move Pi" transaction was successful! Pi is considered mature.
+{}
+[2025-06-11T13:52:18.294Z] [INFO] Pi Bot run starting... Current state: [PENDING_FINAL_TRANSFER]
+[2025-06-11T13:52:18.312Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:52:18.313Z] [INFO] Checking available balance for final transfer from GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T13:52:19.384Z] [INFO] Current balance: 200.3747339 Pi. Amount to send after reserve/fee: 199.8647339 Pi.
+[2025-06-11T13:52:19.386Z] [INFO] Submitting final transfer to GCDQENO4RLX77MPEQJMZYRIU7DRQNNK5JKA7SW46C7AOJTYVXIXHRMHG...
+[2025-06-11T13:52:50.529Z] [SUCCESS] ✅✅✅ FINAL TRANSFER SUCCESSFUL! ✅✅✅
+{
+  "recipient": "GCDQENO4RLX77MPEQJMZYRIU7DRQNNK5JKA7SW46C7AOJTYVXIXHRMHG",
+  "amount": "199.8647339"
+}
+[2025-06-11T13:52:55.540Z] [INFO] Pi Bot run starting... Current state: [TRANSFER_COMPLETE]
+[2025-06-11T13:52:55.542Z] [SUCCESS] Transfer is complete. The bot will now idle. Restart the script to run again.
+[2025-06-11T14:07:53.708Z] [INFO] ==================================================
+[2025-06-11T14:07:53.710Z] [INFO] Pi Auto-Transfer Bot Initializing...
+[2025-06-11T14:07:53.711Z] [INFO] ==================================================
+[2025-06-11T14:07:53.711Z] [SUCCESS] Configuration and keys validated successfully.
+[2025-06-11T14:07:53.712Z] [INFO] Pi Bot run starting... Current state: [AWAITING_MOVE]
+[2025-06-11T14:07:53.759Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T14:07:53.759Z] [INFO] Attempting 'Move Pi' operation to GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI with amount 100.0 Pi.
+[2025-06-11T14:07:54.897Z] [INFO] Submitting "Move Pi" transaction...
+[2025-06-11T14:08:25.727Z] [SUCCESS] "Move Pi" transaction was successful! Pi is considered mature.
+{}
+[2025-06-11T14:08:30.733Z] [INFO] Pi Bot run starting... Current state: [PENDING_FINAL_TRANSFER]
+[2025-06-11T14:08:30.878Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T14:08:30.881Z] [INFO] Checking available balance for final transfer from GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T14:08:31.906Z] [INFO] Current balance: 200.3747339 Pi. Amount to send after reserve/fee: 199.8647339 Pi.
+[2025-06-11T14:08:31.915Z] [INFO] Submitting final transfer to GCDQENO4RLX77MPEQJMZYRIU7DRQNNK5JKA7SW46C7AOJTYVXIXHRMHG...
+[2025-06-11T14:11:55.827Z] [INFO] ==================================================
+[2025-06-11T14:11:55.829Z] [INFO] Pi Auto-Transfer Bot Initializing...
+[2025-06-11T14:11:55.829Z] [INFO] ==================================================
+[2025-06-11T14:11:55.830Z] [FATAL] Bot failed to start.
+{
+  "message": "Move operation is enabled, but its destination or amount is not set in .env."
+}
+[2025-06-11T14:12:16.425Z] [INFO] ==================================================
+[2025-06-11T14:12:16.427Z] [INFO] Pi Auto-Transfer Bot Initializing...
+[2025-06-11T14:12:16.427Z] [INFO] ==================================================
+[2025-06-11T14:12:16.428Z] [FATAL] Bot failed to start.
+{
+  "message": "Move operation is enabled, but its destination or amount is not set in .env."
+}
+[2025-06-11T14:12:26.585Z] [INFO] ==================================================
+[2025-06-11T14:12:26.587Z] [INFO] Pi Auto-Transfer Bot Initializing...
+[2025-06-11T14:12:26.587Z] [INFO] ==================================================
+[2025-06-11T14:12:26.588Z] [FATAL] Bot failed to start.
+{
+  "message": "Move operation is enabled, but its destination or amount is not set in .env."
+}
+[2025-06-11T14:13:18.503Z] [INFO] ==================================================
+[2025-06-11T14:13:18.505Z] [INFO] Pi Auto-Transfer Bot Initializing...
+[2025-06-11T14:13:18.506Z] [INFO] ==================================================
+[2025-06-11T14:13:18.506Z] [SUCCESS] Configuration and keys validated successfully.
+[2025-06-11T14:13:18.506Z] [INFO] Pi Bot run starting... Current state: [AWAITING_MOVE]
+[2025-06-11T14:13:18.546Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T14:13:18.547Z] [INFO] Attempting 'Move Pi' operation to GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI with amount 100.0 Pi.
+[2025-06-11T14:13:19.663Z] [INFO] Submitting "Move Pi" transaction...
+[2025-06-11T14:13:20.357Z] [SUCCESS] "Move Pi" transaction was successful! Pi is considered mature.
+{}
+[2025-06-11T14:13:25.361Z] [INFO] Pi Bot run starting... Current state: [PENDING_FINAL_TRANSFER]
+[2025-06-11T14:13:25.441Z] [INFO] Key derived successfully for wallet: GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T14:13:25.444Z] [INFO] Checking available balance for final transfer from GCHQJDQGSBPSJI2PMGH73JC5YIE4UT6HMYM6UCHF2DVSTZVOLQSM7YVI
+[2025-06-11T14:13:26.390Z] [INFO] Current balance: 200.3747339 Pi. Amount to send after reserve/fee: 199.8647339 Pi.
+[2025-06-11T14:13:26.397Z] [INFO] Submitting final transfer to GCDQENO4RLX77MPEQJMZYRIU7DRQNNK5JKA7SW46C7AOJTYVXIXHRMHG...
+[2025-06-11T14:13:27.054Z] [SUCCESS] ✅✅✅ FINAL TRANSFER SUCCESSFUL! ✅✅✅
+{
+  "recipient": "GCDQENO4RLX77MPEQJMZYRIU7DRQNNK5JKA7SW46C7AOJTYVXIXHRMHG",
+  "amount": "199.8647339"
+}
+[2025-06-11T14:13:32.066Z] [INFO] Pi Bot run starting... Current state: [TRANSFER_COMPLETE]
+[2025-06-11T14:13:32.068Z] [SUCCESS] Transfer is complete. The bot will now idle. Restart the script to run again.
